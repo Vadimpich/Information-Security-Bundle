@@ -6,6 +6,6 @@ The first program of the kit was "Universal Coding Instrument" - a tool that all
 
 The second program I developed was "Password Master". The name of the application speaks for itself – it is designed to check the password for reliability, as well as to generate secure passwords according to certain criteria.
 
-The final, third program of the kit is the "Brute-Force List Generator". Most often, people use various combinations of words and numbers close to them in passwords. But what if a person forgot his password? Then the "Password List Generator" comes to the rescue. By entering the keywords and numbers that the password can consist of, you will get a list of all possible combinations, among which there will certainly be the one that you are trying to remember. A well-thought-out combinatorics system will allow you to make lists of thousands of combinations, and for the convenience of users, instructions are built into the program. 
+The final, third program of the kit is "Password Keeper". This application will allow users to securely store accounts on their computer. All data is stored in encrypted form, and to log in to the program, you need to enter the master password that the user sets when the application is first launched. This program combines elements of the two previous ones, since all credentials are encrypted by the algorithm from the 1st program, and passwords are checked for reliability by the method from the 2nd program.
 
 Vadim Pichurin, 2022
